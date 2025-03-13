@@ -19,12 +19,12 @@ function Contact() {
     <ContactWrapper id="contact">
 
       <div className="Container">
-        <div className="SectionTitle">Get In Touch</div>
+        <div className="SectionTitle">Prendre contact</div>
         <ScrollAnimation animateIn="fadeIn" >
           <div className="BigCard">
             <Email>
               <div style={{ display: 'flex', alignItems: 'center', columnGap: '20px', rowGap: '10px', flexWrap: 'wrap', justifyContent: 'center' }} >
-                <span>pedro.sales.muniz@gmail.com</span>
+                <span>joelnutsugan@gmail.com</span>
                 <Tooltip
                   PopperProps={{
                     disablePortal: true,
@@ -45,11 +45,11 @@ function Contact() {
               </div>
               <a
                 className="btn PrimaryBtn btn-shadow"
-                href="mailto:pedro.sales.muniz@gmail.com"
+                href="joelnutsugan@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Send Email
+                Envoyer un e-mail
               </a>
             </Email>
           </div>

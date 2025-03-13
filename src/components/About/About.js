@@ -23,22 +23,22 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Pedro Muniz</strong>. I'm originally from Brazil and have been living in Canada for the past three years. During my time here, I gained valuable experience through various entry-level positions, which greatly enhanced my work ethic, communication skills, and adaptability.
+            Salut! Moi c'est <strong>Joël Nutsugan</strong>. Passionné par le développement web et la création d’expériences interactives, je suis un développeur full-stack avec une expertise en HTML, CSS, JavaScript, PHP, et MySQL. Depuis plusieurs mois, j'essaie de concevoir des sites web modernes, performants et optimisés, en mettant l’accent sur l’expérience utilisateur UX et le design responsive.
             </ScrollAnimation>
 
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Systems Technology program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
-            Throughout my studies at BCIT, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the RENR Safety App and MyMind, projects that garnered recognition from my colleagues, instructors, and clients alike.
+            Curieux et toujours en quête d’apprentissage, j’aime relever des défis techniques et explorer de nouvelles technologies pour proposer des solutions innovantes et efficaces. Que ce soit pour le développement front-end avec des interfaces élégantes et fluides ou pour le back-end avec des bases de données bien structurées et sécurisées, je mets un point d’honneur à livrer un travail de qualité.
+            Je suis particulièrement passionné par le développement d’applications, qu’elles soient web, mobiles ou logicielles, ainsi que par la conception d’interfaces utilisateur immersives et l’optimisation des performances. J’ai une soif d’apprendre et d’élargir mes compétences, que ce soit en explorant de nouvelles technologies, en perfectionnant mes connaissances en intelligence artificielle, en cloud computing, ou en découvrant les dernières tendances du développement.
             </ScrollAnimation>
 
             <br /><br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              Working collaboratively within a team towards a shared objective has been an incredibly rewarding and unique experience for me. I am eager to continue exploring exciting projects in the future, with a particular interest in web development and cross-platform mobile development.
+            Mon approche est axée sur la rigueur, le détail et l’efficacité, ce qui me permet de transformer des idées en projets concrets et fonctionnels. En plus du développement, j’aime partager mes connaissances et collaborer avec d’autres passionnés du numérique. Mon objectif ? Créer des expériences numériques mémorables et accessibles à tous.
               <div className="tagline2">
-                I have become confident using the following technologies:
+            Si tu veux discuter d’un projet ou d’une collaboration, n’hésite pas à me contacter ! 🚀
               </div>
             </ScrollAnimation>
             

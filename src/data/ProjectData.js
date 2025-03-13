@@ -2,30 +2,12 @@
 export const ProjectList = [
   {
     img: "/ykte-feature-graphic.png",
-    title: "YouKnowTheEnding",
+    title: "Flêche d'argent",
     description:
-      "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
-    tech_stack: ["React Native", "Google Cloud", "NextJs", "TailwindCSS"],
-    github_url: "",
-    demo_url: "https://youknowtheending.net/",
-  },
-  {
-    img: "/renr-responsive.png",
-    title: "RENR Safety App",
-    description:
-      "A safety application for the Renewable Resources Dept. of BCIT",
-    tech_stack: ["React", "Firebase"],
-    github_url: "",
-    demo_url: "https://renr-bcit.web.app/",
-  },
-  {
-    img: "/mymind-responsive.png",
-    title: "MyMind",
-    description:
-      "An app where users can purchase online therapy sessions and chat with their therapists.",
-    tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-    github_url: "https://github.com/salesp07/MyMind---Copy",
-    demo_url: "https://mymindweb.vercel.app/",
+    "Un site web élégant pour un hôtel de luxe, mettant en avant ses chambres, ses services et sa réservation en ligne(phpMyAdmin).",
+    tech_stack: ["HTML", "CSS", "JS", "PHP", "MySQL", "Bootstrap"],
+    github_url: "https://github.com/NUTSUGAN/mon_projet",
+    demo_url: "https://orangered-ape-445004.hostingersite.com",
   },
   {
     img: "/pokedex-responsive.png",
@@ -37,6 +19,15 @@ export const ProjectList = [
     demo_url: "https://pokedex-salesp07.netlify.app/",
   },
   {
+    img: "/mymind-responsive.png",
+    title: "MyMind",
+    description:
+    "Une boutique en ligne optimisée pour le dropshipping, développée avec WordPress et WooCommerce.",
+    tech_stack: ["WordPress", "WooCommerce", "Elementor", "Stripe", "SEO"],
+    github_url: "",
+    demo_url: "https://yellow-frog-939633.hostingersite.com/",
+  },
+  {
     img: "/jobDetect.png",
     title: "JobDetect",
     description:
@@ -44,6 +35,15 @@ export const ProjectList = [
     tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
     github_url: "https://github.com/salesp07/JobDetectNode",
     demo_url: "https://jobdetective.onrender.com/",
+  },
+  {
+    img: "/renr-responsive.png",
+    title: "RENR Safety App",
+    description:
+      "A safety application for the Renewable Resources Dept. of BCIT",
+    tech_stack: ["React", "Firebase"],
+    github_url: "",
+    demo_url: "https://renr-bcit.web.app/",
   },
 ];
 
@@ -67,14 +67,6 @@ export const stackList = [
     name: "ReactJS",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg",
-    name: "NextJs",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
-    name: "Typescript",
-  },
-  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
     name: "Git",
   },
@@ -87,10 +79,6 @@ export const stackList = [
     name: "NodeJS",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg",
-    name: "Firebase",
-  },
-  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg",
     name: "MongoDB",
   },
@@ -99,20 +87,16 @@ export const stackList = [
     name: "Python",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg",
-    name: "Flask",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg",
-    name: "C",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-    name: "Java",
-  },
-  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
     name: "MySQL",
+  },
+  {
+    img: "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg",
+    name: "php",
+  },
+  {
+    img: "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg",
+    name: "Bash",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg",
@@ -123,12 +107,28 @@ export const stackList = [
     name: "Material UI",
   },
   {
+    img: "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg",
+    name: "Linux",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/windows11/windows11-original.svg",
+    name: "Windows",
+  },
+  {
+    img: "https://cdn-icons-png.flaticon.com/512/2758/2758737.png",
+    name: "Réseaux",
+  },
+  {
+    img: "https://cdn-icons-png.flaticon.com/512/2092/2092663.png",
+    name: "Cyber",
+  },
+  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg",
     name: "Figma",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg",
-    name: "TailwindCSS",
+    img: "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/wordpress/wordpress-plain.svg",
+    name: "WordPress",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
