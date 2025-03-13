@@ -8,7 +8,7 @@ import ScrollAnimation from "react-animate-on-scroll";
 function Contact() {
   const [showTooltip, setShowTooltip] = useState(false);
   const copyToClipboard = () => {
-    navigator.clipboard.writeText("pedro.sales.muniz@gmail.com");
+    navigator.clipboard.writeText("joelnutsugan@gmail.com");
     setShowTooltip(true);
     setTimeout(() => {
       setShowTooltip(false);
