@@ -13,7 +13,7 @@ function About() {
   return (
     <ContactWrapper id="about">
       <div className="Container">
-        <div className="SectionTitle">About Me</div>
+        <div className="SectionTitle">À propos de moi</div>
         <div className="BigCard">
         <ScrollAnimation animateIn="fadeInLeft">
           <Image

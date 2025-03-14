@@ -11,10 +11,10 @@ export const ProjectList = [
   },
   {
     img: "/pokedex-responsive.png",
-    title: "Pokedex",
+    title: "Projet Full-Stack.",
     description:
-      "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
-    tech_stack: ["ReactJs", "NodeJs", "MariaDB"],
+      "Développement d'une application web avec une interface utilisateur en React, un backend en Node.js (Express) et une base de données MariaDB.",
+    tech_stack: ["React", "Node.js", "Express", "MariaDB", "Sequelize", "JWT"],
     github_url: "#",
     demo_url: "#",
   },
@@ -33,17 +33,17 @@ export const ProjectList = [
     description:
       "An app to detect if a job posting is a scam or not using its description.",
     tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/JobDetectNode",
-    demo_url: "https://jobdetective.onrender.com/",
+    github_url: "#",
+    demo_url: "#",
   },
   {
     img: "/renr-responsive.png",
-    title: "RENR Safety App",
-    description:
-      "A safety application for the Renewable Resources Dept. of BCIT",
-    tech_stack: ["React", "Firebase"],
+    title: "Infrastructure Réseau & Sécurité Windows Server",
+    description: 
+    "Déploiement et sécurisation d’une infrastructure Active Directory avec gestion DNS, DHCP et stratégies de groupe (GPO) sous Windows Server.",
+    tech_stack: ["Windows Server", "Active Directory", "DNS", "DHCP", "GPO", "PowerShell"],
     github_url: "",
-    demo_url: "https://renr-bcit.web.app/",
+    demo_url: "",
   },
 ];
 
