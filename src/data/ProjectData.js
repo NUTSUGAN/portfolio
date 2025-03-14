@@ -14,15 +14,15 @@ export const ProjectList = [
     title: "Pokedex",
     description:
       "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
-    tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
+    tech_stack: ["ReactJs", "NodeJs", "MariaDB"],
+    github_url: "#",
+    demo_url: "#",
   },
   {
     img: "/mymind-responsive.png",
     title: "MyMind",
     description:
-    "Une boutique en ligne optimisée pour le dropshipping, développée avec WordPress et WooCommerce.",
+    "Une boutique en ligne optimisée pour le dropshipping et du e-commerce, développée avec WordPress et WooCommerce.",
     tech_stack: ["WordPress", "WooCommerce", "Elementor", "Stripe", "SEO"],
     github_url: "",
     demo_url: "https://yellow-frog-939633.hostingersite.com/",
