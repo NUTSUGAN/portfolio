@@ -7,7 +7,7 @@ export const ProjectList = [
     "Un site web élégant pour un hôtel de luxe, mettant en avant ses chambres, ses services et sa réservation en ligne(phpMyAdmin).",
     tech_stack: ["HTML", "CSS", "JS", "PHP", "MySQL", "Bootstrap"],
     github_url: "https://github.com/NUTSUGAN/mon_projet",
-    demo_url: "https://orangered-ape-445004.hostingersite.com",
+    demo_url: "https://darksalmon-salmon-225642.hostingersite.com/",
   },
   {
     img: "/pokedex-responsive.png",
