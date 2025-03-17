@@ -29,10 +29,10 @@ export const ProjectList = [
   },
   {
     img: "/jobDetect.png",
-    title: "JobDetect",
+    title: "Gestion de tâches avec Python & Node.js",
     description:
-      "An app to detect if a job posting is a scam or not using its description.",
-    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
+    "Une application web qui permet aux utilisateurs de gérer leurs tâches. L'API est construite avec Node.js et Express, les données sont stockées dans MongoDB, et un client Python permet d’interagir avec l'API en ligne de commande.",
+    tech_stack: ["Python", "Node.js", "Express", "MongoDB", "Requests"],
     github_url: "#",
     demo_url: "#",
   },
